@@ -1,28 +1,33 @@
 # CarineV
-👨‍💻 Mes Compétences
-
-[![Symfony Badge](https://img.shields.io/badge/SymfonyInsight--006769?style=flat-square&logo=symfony&logoColor=white/)](https://insight.symfony.com/projects/7c7b731d-eb97-4947-a279-101a7239d36e/analyses/1)
-[![Symfony Badge](https://img.shields.io/badge/Symfony-6.1-000000?style=flat-square&logo=symfony&logoColor=white/)](https://symfony.com/)
-[![Twig Badge](https://img.shields.io/badge/Twig-2.0-bacf29?style=flat-square&logo=symfony&logoColor=white/)](https://twig.symfony.com/)
-[![Composer Badge](https://img.shields.io/badge/Composer-2.4-6c3e22?style=flat-square&logo=composer&logoColor=white/)](https://getcomposer.org/)
-[![PHP Badge](https://img.shields.io/badge/PHP-7.4-7a86b8?style=flat-square&logo=php&logoColor=white/)](https://www.php.net/)
-[![JavaScript Badge](https://img.shields.io/badge/Javascript-ES6-F7DF1E?style=flat-square&logo=javascript&logoColor=white/)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
-[![CSS Badge](https://img.shields.io/badge/CSS-3-1572B6?style=flat-square&logo=css3&logoColor=white/)](https://developer.mozilla.org/fr/docs/Web/CSS)
-![HTML Badge](https://img.shields.io/badge/HTML-5-E34F26?style=flat-square&logo=html5&logoColor=white/)
-![BOOTSTRAP Badge](https://img.shields.io/badge/Bootstrap-5-violet)
-[![Draw.io Badge](https://img.shields.io/badge/Diagrams.net-20.7-F08705?style=flat-square&logo=diagrams.net&logoColor=white/)](https://www.diagrams.net/)
-
-
- 👨‍💻 Mes prochaines compétences
-
-![DOCKER Badge](https://img.shields.io/badge/Docker-1572B6?style=flat-square&logo=docker&logoColor=white/)
-![REACT Badge](https://img.shields.io/badge/React-1572B6?style=flat-square&logo=docker&logoColor=white/)
 
 Bonjour,
 
-Je suis Carine Vinagre et je vais vous présenter mes projets réalisés dans le cadre de ma formation avec l'organisme OpenClassrooms 
+Je suis Carine Vinagre et je vais vous présenter mes projets réalisés et les technologies utilisées dans le cadre de ma formation avec l'organisme OpenClassrooms. 
 
 "Développeur d'application php / symfony".
+
+👨‍💻 Mes Compétences
+
+<details>
+<summary><strong>Ce que je travail : </strong></summary>
+ - Php <br/>
+ - Symfony <br/>
+ - Twig <br/>
+ - Composer <br/>
+ - Html <br/>
+ - CSS <br/>
+ - Bootstrap <br/>
+ - JavaScript <br/>
+</details>
+
+
+ 
+ <details>
+<summary><strong> 👨‍💻 Mes prochaines compétences </strong></summary>
+ - Docker <br/>
+ - React <br/>
+</details>
+
 
 ![Projet-1 Badge](https://img.shields.io/badge/Projet-1-green)
 
