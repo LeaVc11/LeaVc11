@@ -6,39 +6,38 @@ Je suis Carine Vinagre et je vais vous présenter mes projets réalisés et les 
 
 "Développeur d'application php / symfony".
 
-👨‍💻 Mes Compétences
-
 <details>
-<summary><strong>Ce que je travail : </strong></summary>
- - Php <br/>
- - Symfony <br/>
- - Twig <br/>
- - Composer <br/>
- - Html <br/>
- - CSS <br/>
- - Bootstrap <br/>
- - JavaScript <br/>
+<summary><strong>👨‍💻 Mes Compétences </strong></summary>
+  - Php <br/>
+  - Symfony <br/>
+  - Twig <br/>
+  - Composer <br/>
+  - Html <br/>
+  - CSS <br/>
+  - Bootstrap <br/>
+  - JavaScript <br/>
 </details>
 
 
- 
  <details>
 <summary><strong> 👨‍💻 Mes prochaines compétences </strong></summary>
  - Docker <br/>
  - React <br/>
 </details>
 
-
+ <details>
+<summary><strong> 👨‍💻 Mon Projet 1 : Intégrez un thème Wordpress pour un client </strong></summary>
 ![Projet-1 Badge](https://img.shields.io/badge/Projet-1-green)
 
-      Intégrez un thème Wordpress pour undclient
-
 => Lien du projet : http://carine-dev.fr/ (En cours de modification)
+ 
+</details>
+
+ <details>
+<summary><strong> 👨‍💻 Mon Projet 2 : Analysez les besoins de votre client pour son festival de films </strong></summary>
 
 ![Projet-2 Badge](https://img.shields.io/badge/Projet-2-blue)
-
-      Analysez les besoins de votre client pour son festival de films
-
+    
 Le deuxième projet consistait en tant que développeur,  de lister les fonctionnalités dont a besoin une cliente et de proposer une solution technique adaptée. 
 
 Sélectionner la solution qui vous semble la plus à même de répondre à son besoin : quels outils utiliser, éventuellement un CMS, etc.
@@ -48,20 +47,25 @@ Vous devrez ensuite réaliser une première maquette de ce site correspondant à
 => Lien du projet : http://festivair.carine-dev.fr/
 
 => Accès au rendu : https://github.com/LeaVc11/Festival-des-films
+ 
+</details>
 
+ <details>
+<summary><strong> 👨‍💻 Mon Projet 3 : Concevez la solution technique d'une application de restauration en ligne, ExpressFood </strong></summary>
+ 
 ![Projet-3 Badge](https://img.shields.io/badge/Projet-3-yellow)
-
-      Concevez la solution technique d'une application de restauration en ligne, ExpressFood
-
+   
 Le troisème projet consistait à corriger un code existant qui comportait de multiples erreurs et mauvaises pratiques et référencement,
 
 accessibilité et au niveau des performances du site web.
 
 => Lien du projet : https://github.com/LeaVc11/Express-Food
+ </details>
+
+ <details>
+<summary><strong> 👨‍💻 Mon Projet 4 : Créez votre premier blog en PHP</strong></summary>
 
 ![Projet-4 Badge](https://img.shields.io/badge/Projet-4-red)
-
-       Créez votre premier blog en PHP
 
 Pour ce quatrième projet est donc de développer votre blog professionnel. 
 
@@ -92,11 +96,13 @@ Vous développerez une partie administration qui devra être accessible uniqueme
 Les pages d’administration seront donc accessibles sur conditions et vous veillerez à la sécurité de la partie administration.
 
 Lien du projet : https://github.com/LeaVc11/Creer-un-blog-en-php
+</details>
+
+ <details>
+<summary><strong> 👨‍💻 Mon Projet 5 : Développez de A à Z le site communautaire SnowTricks</strong></summary>
 
 ![Projet-5 Badge](https://img.shields.io/badge/Projet-5-ff69b4)
-
-         Développez de A à Z le site communautaire SnowTricks
-
+       
 - Vous êtes chargé de développer le site répondant aux besoins de Jimmy.
  
 - Vous devez ainsi implémenter les fonctionnalités suivantes : un annuaire des figures de snowboard. 
@@ -122,11 +128,14 @@ Pour implémenter ces fonctionnalités, vous devez créer les pages suivantes :
 L’ensemble des spécifications détaillées pour les pages à développer est accessible ici : Spécifications détaillées.
 
 => Lien du projet : https://github.com/LeaVc11/Snowtrick
+ 
+ </details>
+
+ <details>
+<summary><strong> 👨‍💻 Mon Projet 6 : Créez un web service exposant une API</strong></summary>
 
 ![Projet-6 Badge](https://img.shields.io/badge/Projet-6-lightgrey)
-
-        Créez un web service exposant une API
-
+      
 Répondre aux besoins de ce premier client qui va permettre de mettre en place l’ensemble des API et de les éprouver tout de suite.
 
 Après une réunion dense avec le client, il a été identifié un certain nombre d’informations. Il doit être possible de :
@@ -150,10 +159,13 @@ Vous avez le choix entre mettre en place un serveur OAuth et y faire appel (en u
 Si vous décidez d’utiliser JWT, il vous faudra vérifier la validité du token ; l’usage d’une librairie est autorisé.
 
 => Lien du projet : https://github.com/LeaVc11/bilemo
+ 
+ </details>
+
+ <details>
+<summary><strong> 👨‍💻 Mon Projet 7 : Améliorez une application existante de ToDo & Co</strong></summary>
 
 ![Projet-7 Badge](https://img.shields.io/badge/Projet-7-orange)
-
-        Améliorez une application existante de ToDo & Co
 
 CORRECTIONS D'ANOMALIES
 
@@ -240,3 +252,5 @@ Bien évidemment, il vous est fortement conseillé d’utiliser des outils vous 
 mais vous pouvez également utiliser Blackfire ou New Relic si vous le souhaitez. Pensez à faire un audit avant et après modification.
 
   => Lien du projet :  https://github.com/LeaVc11/P8_ToDo
+
+  </details>
