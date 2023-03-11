@@ -27,8 +27,9 @@ Je suis Carine Vinagre et je vais vous présenter mes projets réalisés et les 
 
  <details>
 <summary><strong> 👨‍💻 Mon Projet 1 : Intégrez un thème Wordpress pour un client </strong></summary>
+  
 ![Projet-1 Badge](https://img.shields.io/badge/Projet-1-green)
-
+  
 => Lien du projet : http://carine-dev.fr/ (En cours de modification)
  
 </details>
