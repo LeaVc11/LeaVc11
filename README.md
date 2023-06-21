@@ -255,3 +255,6 @@ mais vous pouvez également utiliser Blackfire ou New Relic si vous le souhaitez
   => Lien du projet :  https://github.com/LeaVc11/P8_ToDo
 
   </details>
+
+  Projet Personnel 
+  Je mets en place de nouvelle technologies : Docker pour mon ![Projet-1 Badge](https://img.shields.io/badge/Projet-1-ff69b4)projet 1  
