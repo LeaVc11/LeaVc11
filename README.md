@@ -258,7 +258,8 @@ mais vous pouvez également utiliser Blackfire ou New Relic si vous le souhaitez
  <details>
 <summary><strong> 👨‍💻 Projet Personnel:  Je mets en place de nouvelle technologies </strong></summary>
 
-   ![Projet-1 Badge](https://img.shields.io/badge/Projet-1-ff69b4)projet 1  
+   ![Projet-1 Badge](https://img.shields.io/badge/Projet-1-ff69b4)  
+   
 Symfony 
 
 Site E-commerce avec docker et symfony </strong></summary>
