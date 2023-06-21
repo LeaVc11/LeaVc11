@@ -263,7 +263,6 @@ mais vous pouvez également utiliser Blackfire ou New Relic si vous le souhaitez
       
 <summary><strong> 👨‍💻 Projet Personnel:  Je mets en place de nouvelle technologies </strong></summary>
 
-
 Symfony 
 
 Site E-commerce avec docker et symfony </strong></summary>
