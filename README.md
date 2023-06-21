@@ -255,6 +255,7 @@ mais vous pouvez également utiliser Blackfire ou New Relic si vous le souhaitez
   => Lien du projet :  https://github.com/LeaVc11/P8_ToDo
 
   </details>
+  <hr>
  <details>
 <summary><strong> 👨‍💻 Projet Personnel:  Je mets en place de nouvelle technologies </strong></summary>
 
